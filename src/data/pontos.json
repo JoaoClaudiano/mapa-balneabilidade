@@ -1,0 +1,20 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-38.5, -3.7] },
+      "properties": { "nome": "Praia do Futuro", "status": "Próprio" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-38.6, -3.8] },
+      "properties": { "nome": "Praia de Iracema", "status": "Impróprio" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [-38.4, -3.65] },
+      "properties": { "nome": "Praia do Porto", "status": "Próprio" }
+    }
+  ]
+}
