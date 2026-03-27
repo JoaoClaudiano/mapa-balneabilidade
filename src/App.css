@@ -1,0 +1,16 @@
+.App {
+  text-align: center;
+  position: relative;
+}
+
+h1 {
+  position: absolute;
+  top: 10px;
+  left: 10px;
+  z-index: 1000;
+  background: rgba(255, 255, 255, 0.8);
+  padding: 5px 10px;
+  border-radius: 5px;
+  font-size: 1rem;
+  pointer-events: none;
+}
